@@ -47,6 +47,7 @@ Mean Salary: 57071.42857142857
 Median Salary: 58000.0
 Salary Std Dev: 6293.638860777612
 Average Salary and Age by Department:
+
     department   salary   age
 0   Engineering  58800.0  30.4   
 1   Marketing  52500.0  27.5   
