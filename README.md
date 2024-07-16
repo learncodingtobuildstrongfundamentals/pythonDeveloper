@@ -43,12 +43,11 @@ The script generates the following visualizations:
 Bar plot of average salary by department.
 Histogram of age distribution.
 Scatter plot of age vs. salary.
-Mean Salary: 57071.42857142857
-Median Salary: 58000.0
-Salary Std Dev: 6293.638860777612
+Mean Salary: 57071.42857142857,
+Median Salary: 58000.0,
+Salary Std Dev: 6293.638860777612,
 Average Salary and Age by Department:
-
-    department   salary   age
+department   salary   age
 0   Engineering  58800.0  30.4   
 1   Marketing  52500.0  27.5   
 2      Sales  59000.0  37.2   
