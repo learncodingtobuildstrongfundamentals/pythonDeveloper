@@ -4,6 +4,7 @@ Tasks for a Python developer
 ## Level 1 - Python Developer
 Follow instructions in the README.md file in the Level 1 folder.
 Make sure to complete both the tasks.
+
 task-1 Create a simple FastAPI service that provides weather data and 
 supports basic user authentication with hardcoded values, 
 including comprehensive error handling.
@@ -51,7 +52,4 @@ Temperature: 18°C
 Humidity: 55%
 Description: Rainy
 User Credentials
-The application uses hardcoded user credentials for login:
-Username: testuser
-Password: testpass
 
